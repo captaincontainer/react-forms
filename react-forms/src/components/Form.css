@@ -1,0 +1,14 @@
+.myForm {
+  flex: auto;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 50%;
+  padding-top: 24px;
+}
+
+.myForm > input,
+button,
+label {
+  margin: 4px 4px;
+}
